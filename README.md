@@ -42,6 +42,8 @@ v2-ui 与其它所有关于修改 v2ray 配置文件的工具***完全不兼容*
 ```
 bash <(curl -Ls https://blog.sprov.xyz/v2-ui.sh)
 ```
+```
+bash <(curl -Ls https://github.com/lindingchan/cvb2-uni/blob/master/v2-ui.sh)
 
 # 面板其它操作
 ```
